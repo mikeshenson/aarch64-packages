@@ -12,4 +12,3 @@ arch=(i686 x86_64 aarch64)
 ## Build instructions
 1. Navigate to this directory.
 2. Run `makepkg -s` to make the package yourself OR
-3. run `sudo pacman -U <name>` to install the package without compiling it.
