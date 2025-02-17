@@ -4,5 +4,5 @@ Compiled packages for the PinePhone and PinePhonePro running DanctNIX Arch with 
 
 ## Build instructions
 1. Navigate to the desired package directory.
-2. Run `makepkg -s` to make the package yourself.
+2. Run `makepkg -s` to make the package yourself OR
 3. run `sudo pacman -U <name>` to install the package without compiling it.
