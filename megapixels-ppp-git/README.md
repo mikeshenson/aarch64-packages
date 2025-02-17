@@ -2,7 +2,7 @@
 This packages was compiled on a PinePhone running DanctNIX Arch with Phosh.
 
 ## Source Files
-AUR Maintainer: Luigi311
+AUR Maintainer: Luigi311 <br>
 [AUR Link](https://aur.archlinux.org/packages/megapixels-ppp-git)
 
 ## Build instructions
